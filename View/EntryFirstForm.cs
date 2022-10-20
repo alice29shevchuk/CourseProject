@@ -58,6 +58,7 @@ namespace CourseProject
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
             //point = new Point(e.X, e.Y);
+            //
         }
     }
 }
