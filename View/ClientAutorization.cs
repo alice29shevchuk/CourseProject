@@ -48,5 +48,10 @@ namespace CourseProject
         {
             labelCloseClientAutorization.ForeColor = Color.LightSeaGreen;
         }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
